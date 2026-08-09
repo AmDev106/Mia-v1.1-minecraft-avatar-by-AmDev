@@ -2,6 +2,7 @@
 Hey modders! This is Mia, a red haired and almost fully nude character I modeled and animated myself. check the requirements list and install instructions below and report any issues, i will be constantly checking this mod's status. Thank you! also right now the skin doesnt really look good with a chestplate on, ill work on that as soon as i can.
 
 Description
+
 Mia is a red haired and almost fully nude custom character I animated and modeled in Customizable Player Models mod. She is not based on any real person or fictional characters, I wrote her character myself and designed her off of things just think are cool, like red hair, pony tails, green eyes, subtle emo/goth elements. 
 In mod is a .cpmpoject file, a readme, and two png images. the .cpm project file holds the data for the custom skin that features the realistic anatomy and animations. The images are for what players without the required mod who will so a normal minecraft skin with your choice of a sfw and a nsfw version. More info in install instructions!
 idk why but i feel like saying that I did not make her out of objectification, I am simply embracing the beauty of anatomy paired with alternative hair/fashion styles. this is not a "slut" thing, just felt worth mentioning. 
